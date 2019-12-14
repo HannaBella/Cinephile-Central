@@ -2,15 +2,11 @@ var apiKey = "n88G1Uie6JbLq2uAAASrsS5Qte3jL1K3";
 var apiUrl = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=" + keyword + "&api-key=" + apiKey;
 var keyword = "";
 
-
-
 $(document).ready(function() {
     $("#run-search").on("click", function(event) {
         event.preventDefault();
-
         $("#display-review").empty();
         keyword = $("#movie-search").val();
-
         callAjax();
         $("#movie-search").val("");
 
@@ -28,7 +24,6 @@ function callAjax() {
         var organizedResults = _.sortBy(dataToArray, ["publication_date"]).reverse();
         for (var i = 0; i < organizedResults.length; i++) {
             var resultDiv = $("<div class='card py-2 pl-2 my-2'>");
-
             var titleDiv = $("<h4>").text(organizedResults[i].display_title);
             var subtitle = $("<h6 >").text(organizedResults[i].headline);
             if(organizedResults[i].opening_date === null){ organizedResults[i].opening_date = "N/A";}
@@ -49,9 +44,6 @@ function callAjax() {
                 localStorage.setItem("nylink", organizedResults[index].link.url);
                 document.location.href = "detail.html";
             });
-
-
-
         }
     });
 }

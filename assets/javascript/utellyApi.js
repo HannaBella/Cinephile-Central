@@ -3,8 +3,6 @@ var searchButtonID = "#run-search";
 $(document).ready(function () {
     //Grab the users new query
     var queryTerm = localStorage.getItem("title");
-    console.log(queryTerm);
-
     //Update the API URL to contain the new query term
     var url = `https://utelly-tv-shows-and-movies-availability-v1.p.rapidapi.com/lookup?term=${queryTerm}`;
 
@@ -12,7 +10,7 @@ $(document).ready(function () {
     const options = {
         method: 'GET',
         headers: {
-            //INSERT YOUR HEADERS HERE
+            //Insert your headers here
         }
     }
 
@@ -22,7 +20,6 @@ $(document).ready(function () {
         .then(response => response.json())
         .then(data => generateBlocks(data)) //console.log(data)
         .catch(e => console.error(e));
-
 });
 
 //generateBlocks will generate bootstrap cards and fill them with an approriate image and
