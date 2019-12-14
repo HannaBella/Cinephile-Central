@@ -1,4 +1,4 @@
-var apiKey; //INSERT YOUR NYT API
+var apiKey = "n88G1Uie6JbLq2uAAASrsS5Qte3jL1K3";
 var apiUrl = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=" + keyword + "&api-key=" + apiKey;
 var keyword = "";
 
