@@ -22,7 +22,7 @@ Type in your search term and click search
 Scroll through the results and select "Review Detail" to read the full article
  or "Streaming" to view locations to watch the movie.
 ```
-![Step 3](https://raw.githubusercontent.com/BullHamund/New_York_Times-Square/master/assets/images/s3.png)
+![Step 3](https://github.com/HannaBella/Cinephile-Central/blob/master/assets/images/s3.png)
 ```
 Here you can see where you are able to stream or purchase the movie.
 There is also a button for free streaming of the movie.
