@@ -27,13 +27,6 @@ Scroll through the results and select "Review Detail" to read the full article
 Here you can see where you are able to stream or purchase the movie.
 There is also a button for free streaming of the movie.
 ```
-![Step 4](https://raw.githubusercontent.com/BullHamund/New_York_Times-Square/master/assets/images/s4.png)
-```
-The free stream option contains lots of ads. Please use an adblocker for your browser.
-We recommend uBlock Origin.
-If the movie stream is broken or blocked, please select the blue button for
-more sites that host the movie. Or try researching for the movie.
-```
 
 ## Built With
 
