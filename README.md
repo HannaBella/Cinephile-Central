@@ -15,7 +15,7 @@ Cinephile Central was created to serve as a one-stop shop for all movie fans. Us
 How to operate and navigate the website
 ![Step 1](https://raw.githubusercontent.com/BullHamund/New_York_Times-Square/master/assets/images/s1.png)
 ```
-Type in your search therm and click search
+Type in your search term and click search
 ```
 ![Step 2](https://raw.githubusercontent.com/BullHamund/New_York_Times-Square/master/assets/images/s2.png)
 ```
