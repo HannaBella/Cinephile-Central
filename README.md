@@ -30,15 +30,14 @@ There is also a button for free streaming of the movie.
 
 ## Built With
 
-* [Bootstrap](https://getbootstrap.com/docs/4.3) - CSS framework used
-* [jQuery](https://api.jquery.com) - Javascript library used
+* [Bootstrap](https://getbootstrap.com/docs/4.3) - CSS framework 
+* [jQuery](https://api.jquery.com) - Javascript library 
 * [ajax](https://api.jquery.com/jquery.ajax/) - Asynchronous JavaScript 
 * [NY Times API](https://developer.nytimes.com/docs/movie-reviews-api) - API for movie reviews
 * [OMDb API](http://www.omdbapi.com/) - API for movie information and photos
 * [Utelly](https://rapidapi.com/utelly/api/utelly)- API for universal movie search
 * [ipify](https://www.ipify.org/) - API used for IP Addresses
-* [VideoSpider](https://videospider.in/) - API used for movie links
-* [lodash](https://lodash.com) - API used to sort results in Ascending date order
+* [lodash](https://lodash.com) - Javascript library used to sort results in Ascending date order
 
 ## Authors
 
