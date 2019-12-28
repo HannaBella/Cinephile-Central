@@ -31,20 +31,20 @@ There is also a button for free streaming of the movie.
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/docs/4.3) - CSS framework 
-* [jQuery](https://api.jquery.com) - Javascript library 
+* [jQuery](https://api.jquery.com) - JavaScript library 
 * [ajax](https://api.jquery.com/jquery.ajax/) - Asynchronous JavaScript 
 * [NY Times API](https://developer.nytimes.com/docs/movie-reviews-api) - API for movie reviews
 * [OMDb API](http://www.omdbapi.com/) - API for movie information and photos
 * [Utelly](https://rapidapi.com/utelly/api/utelly)- API for universal movie search
 * [ipify](https://www.ipify.org/) - API used for IP Addresses
-* [lodash](https://lodash.com) - Javascript library used to sort results in Ascending date order
+* [lodash](https://lodash.com) - JavaScript library used to sort results in Ascending date order
 
 ## Authors
 
-* **Andres Ruiz-Velediaz** - [Mercyfulsin](https://github.com/Mercyfulsin)
-* **Bill Hammond** - [BullHamund](https://github.com/BullHamund)
-* **Hanna Tefera** - [HannaBella](https://github.com/HannaBella)
-* **Luigi Cruz** - [angeloluigicruz](https://github.com/angeloluigicruz)
+* **Andres Ruiz-Velediaz** 
+* **Bill Hammond**
+* **Hanna Tefera** 
+* **Luigi Cruz**
 
 
 
